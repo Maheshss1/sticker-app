@@ -1,0 +1,164 @@
+{
+  "project_info": {
+    "project_number": "1043052973992",
+    "firebase_url": "https://stickerapp-36bbc-default-rtdb.asia-southeast1.firebasedatabase.app/",
+    "project_id": "stickerapp-36bbc",
+    "storage_bucket": "stickerapp-36bbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043052973992:android:7c7c5a9270eb578221579d",
+        "android_client_info": {
+          "package_name": "com.mahesh.animatedstickerappfirestoreentryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043052973992-nv8cmi34m0bpu93n6aag4vr47oe39ea7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJxOVnG4r_XEgqkZN1SCceHZgHrtXWTcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043052973992-nv8cmi34m0bpu93n6aag4vr47oe39ea7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043052973992:android:57bba7cb4549bab621579d",
+        "android_client_info": {
+          "package_name": "com.mahesh.samplestickerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043052973992-nv8cmi34m0bpu93n6aag4vr47oe39ea7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJxOVnG4r_XEgqkZN1SCceHZgHrtXWTcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043052973992-nv8cmi34m0bpu93n6aag4vr47oe39ea7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043052973992:android:499304357631514421579d",
+        "android_client_info": {
+          "package_name": "com.mahesh.stickersproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043052973992-nv8cmi34m0bpu93n6aag4vr47oe39ea7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJxOVnG4r_XEgqkZN1SCceHZgHrtXWTcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043052973992-nv8cmi34m0bpu93n6aag4vr47oe39ea7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043052973992:android:45f1caaa13d43ede21579d",
+        "android_client_info": {
+          "package_name": "com.mahesh.traveley"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043052973992-nv8cmi34m0bpu93n6aag4vr47oe39ea7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJxOVnG4r_XEgqkZN1SCceHZgHrtXWTcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043052973992-nv8cmi34m0bpu93n6aag4vr47oe39ea7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043052973992:android:4d17a65dd64574db21579d",
+        "android_client_info": {
+          "package_name": "com.stickers.animatedstickers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043052973992-rqesm5sososekcbg7msfkg1rqhcm2aid.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stickers.animatedstickers",
+            "certificate_hash": "34060c7200a246345bdad2ded172acb5ad9b3c54"
+          }
+        },
+        {
+          "client_id": "1043052973992-nv8cmi34m0bpu93n6aag4vr47oe39ea7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJxOVnG4r_XEgqkZN1SCceHZgHrtXWTcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043052973992-nv8cmi34m0bpu93n6aag4vr47oe39ea7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
